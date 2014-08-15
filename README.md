@@ -5,4 +5,4 @@ This page will contain bits of information that are either important to me, or t
 
 * **Email**: `monsieurfastidious@gmail.com`
 * **miniLock ID**: `2B8kBh1EQEm2YiNd1gBeCW7ZNijJdW2PMiGQDoupmsge4d`
-* Page twelve, first paragraph.
+* **Hint**: Page twelve, first paragraph.
