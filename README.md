@@ -1,5 +1,5 @@
 Bits of Information
-====
+=======
 
 This page will contain bits of information that are important to me, or to those who know me.
 
